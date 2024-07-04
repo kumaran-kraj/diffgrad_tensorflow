@@ -1,0 +1,5 @@
+tensorflow-gpu
+np_utils
+numpy
+matplotlib
+nvidia_smi
